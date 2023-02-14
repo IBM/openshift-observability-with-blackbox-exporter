@@ -1,3 +1,7 @@
+# Tutorial
+
+To deploy the Openshift Observability stack, follow the tutorial found here: https://developer.ibm.com/tutorials/monitor-application-availability-prometheus-blackbox-exporter-grafana/
+
 # Contents
 
 ## observability.sh
